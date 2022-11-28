@@ -1,16 +1,40 @@
+# Markdown Syntax<a name="TOP"></a>
+
+---
+
 <!-- Headings -->
 
 # Heading 1
 
+    Markup :  # Heading 1 #
+
+    -OR-
+
+    Markup :  ============= (below H1 text)
+
 ## Heading 2
+
+    Markup :  ## Heading 2 ##
+
+    -OR-
+
+    Markup: --------------- (below H2 text)
 
 ### Heading 3
 
+    Markup :  ### Heading 3 ###
+
 #### Heading 4
+
+    Markup :  #### Heading 4 ####
 
 ##### Heading 5
 
+    Markup :  ##### Heading 5 #####
+
 ###### Heading 6
+
+    Markup :  ###### Heading 6 ######
 
 <!-- Italic -->
 
