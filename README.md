@@ -1,6 +1,4 @@
-# Markdown Syntax<a name="TOP"></a>
-
----
+# Markdown Syntax
 
 <!-- Headings -->
 
@@ -36,17 +34,29 @@
 
     Markup :  ###### Heading 6 ######
 
+<!-- Common Text -->
+
+Common text
+
+    Markup :  Common text
+
 <!-- Italic -->
 
-_It's Italic_ in nature.
+_Italic_
+
+    Markup : _Italic_
 
 <!-- Bold -->
 
-**It's Bold** in nature.
+**Bold**
+
+    Markup : **Bold**
 
 <!-- Strikethrough -->
 
-~~It's Strikethrough~~ in nature.
+~~Strikethrough~~
+
+    Markup : ~~Strikethrough~~
 
 <!-- Horizontal Rule -->
 
