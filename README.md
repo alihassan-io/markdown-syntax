@@ -34,7 +34,7 @@
 
     Markup :  ###### Heading 6 ######
 
-<!-- Common Text -->
+## <!-- Common Text -->
 
 Common text
 
@@ -46,21 +46,31 @@ _Italic_
 
     Markup : _Italic_
 
-<!-- Bold -->
-
-**Bold**
-
-    Markup : **Bold**
-
 <!-- Strikethrough -->
 
 ~~Strikethrough~~
 
     Markup : ~~Strikethrough~~
 
+<!-- Bold -->
+
+**Bold**
+
+    Markup : **Bold** or __Bold__
+
+<!-- Bold & Italic -->
+
+**_Bold & Italic_**
+
+    Markup : ***Bold & Italic*** or ___Bold & Ilatic___
+
 <!-- Horizontal Rule -->
 
+_Horizontal line :_
+
 ---
+
+    Markup : ----
 
 <!-- Blockquote -->
 
