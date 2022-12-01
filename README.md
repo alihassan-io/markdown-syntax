@@ -74,7 +74,23 @@ _Horizontal line :_
 
 <!-- Blockquote -->
 
-> This text is blockquote in nature.
+> Blockquote
+
+    Markup :  > Blockquote
+
+> > Nested blockquote
+
+    Markup :  >> Nested Blockquote
+
+<!-- Links -->
+
+[Simple Link](https://github.com/alihassan-io)
+
+    Markup : [Simple Link](https://github.com/alihassan-io)
+
+[Link With Title](https://github.com/alihassan-io "Ali Hassan")
+
+    Markup : [Link With Title](https://github.com/alihassan-io "Ali Hassan")
 
 <!-- UL -->
 
@@ -89,12 +105,6 @@ _Horizontal line :_
 1. Item 1
 1. Item 2
 1. Item 3
-
-<!-- Link -->
-
-[Tech Guy](https://github.com/AliHassanAlraee)
-
-[Tech Guy](https://github.com/AliHassanAlraee "Tech Guy")
 
 <!-- Inline Code Block -->
 
