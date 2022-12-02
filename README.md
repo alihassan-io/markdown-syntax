@@ -94,11 +94,15 @@ _Horizontal line :_
 
 <!-- UL -->
 
-- Item 1
-- Item 2
-- Item 3
-  - Item 3.1
-  - Item 3.2
+- Unordered List
+  - Nested Unordered List
+
+```
+    Markup :    - Unordered List
+                    - Nested Unordered List
+                        - Sub-Nested Unordered List
+                - Unordered List
+```
 
 <!-- OL -->
 
