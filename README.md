@@ -106,6 +106,18 @@ _Horizontal line :_
 
 <!-- OL -->
 
+1. Ordered List 1
+   1. Nested Ordered List 1
+   2. Nested Ordered List 2
+2. Ordered List 2
+
+```
+    Markup :    1. Ordered List 1
+                    1. Nested Ordered List 1
+                    2. Nested Ordered List 2
+                2. Ordered List 2
+```
+
 1. Item 1
 1. Item 2
 1. Item 3
