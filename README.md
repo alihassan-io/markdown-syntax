@@ -118,9 +118,19 @@ _Horizontal line :_
                 2. Ordered List 2
 ```
 
-1. Item 1
-1. Item 2
-1. Item 3
+<!-- Foldable text -->
+
+Title With Dropdown Paragraph:
+
+<details>
+  <summary>Summary</summary>
+  <p>This is paragraph.</p>
+</details>
+
+    Markup : <details>
+               <summary>Title 1</summary>
+               <p>Content 1 Content 1 ConteContent 1</p>
+             </details>
 
 <!-- Inline Code Block -->
 
