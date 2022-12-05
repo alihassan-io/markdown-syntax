@@ -136,6 +136,8 @@ Title With Dropdown Paragraph:
 
 `<p>This is HTML paragraph.</p>`
 
+    Markup : `<p>This is HTML paragraph.</p>`
+
 ![GitHub](https://image.flaticon.com/icons/svg/25/25231.svg)
 
 <!-- GitHub Markdown -->
