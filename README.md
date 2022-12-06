@@ -124,7 +124,7 @@ Title With Dropdown Paragraph:
 
 <details>
   <summary>Summary</summary>
-  <p>This is paragraph.</p>
+  <p>This is a paragraph.</p>
 </details>
 
     Markup : <details>
