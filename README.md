@@ -128,8 +128,8 @@ Title With Dropdown Paragraph:
 </details>
 
     Markup : <details>
-               <summary>Title 1</summary>
-               <p>Content 1 Content 1 ConteContent 1</p>
+               <summary>Summary</summary>
+               <p>This is a paragraph.</p>
              </details>
 
 <!-- Inline Code Block -->
