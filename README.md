@@ -107,14 +107,14 @@ _Horizontal line :_
 <!-- OL -->
 
 1. Ordered List 1
-   1. Nested Ordered List 1
-   2. Nested Ordered List 2
+   1. Nested Ordered List 1a
+   2. Nested Ordered List 1b
 2. Ordered List 2
 
 ```
     Markup :    1. Ordered List 1
-                    1. Nested Ordered List 1
-                    2. Nested Ordered List 2
+                    1. Nested Ordered List 1a
+                    2. Nested Ordered List 1b
                 2. Ordered List 2
 ```
 
