@@ -138,7 +138,13 @@ Title With Dropdown Paragraph:
 
     Markup : `<p>This is HTML paragraph.</p>`
 
-![GitHub](https://image.flaticon.com/icons/svg/25/25231.svg)
+<!-- Image with alt text -->
+
+Image With Alt Text
+
+![AliHassan.io](https://www.bettersrv.com/images/logo.png "AliHassan.io (Optional)")
+
+    Markup : ![AliHassan.io](https://www.bettersrv.com/images/logo.png "AliHassan.io (Optional)")
 
 <!-- GitHub Markdown -->
 
