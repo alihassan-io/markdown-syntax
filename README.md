@@ -146,15 +146,20 @@ Image With Alt Text
 
     Markup : ![AliHassan.io](https://www.bettersrv.com/images/logo.png "AliHassan.io (Optional)")
 
-<!-- GitHub Markdown -->
-
 <!-- Code Block -->
+
+_Code Block:_
 
 ```bash
 npm install
 
 npm start
 ```
+
+    Markup:     ```bash
+                npm install
+                npm start
+                ```
 
 ```c++
 cout<<"Hello Web!";
