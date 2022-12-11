@@ -161,9 +161,15 @@ npm start
                 npm start
                 ```
 
+C++ Code Block
+
 ```c++
 cout<<"Hello Web!";
 ```
+
+    Markup :    ```c++
+                cout<<"Hello Web!";
+                ```
 
 ```javascript
 console.log("Hello Web!");
