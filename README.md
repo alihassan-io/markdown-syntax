@@ -171,9 +171,15 @@ cout<<"Hello Web!";
                 cout<<"Hello Web!";
                 ```
 
+JavaScript Code Block
+
 ```javascript
 console.log("Hello Web!");
 ```
+
+    Markup :    ```javascript
+                console.log("Hello Web!");
+                ```
 
 <!-- Table -->
 
