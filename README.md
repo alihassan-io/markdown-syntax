@@ -171,6 +171,17 @@ cout<<"Hello Web!";
                 cout<<"Hello Web!";
                 ```
 
+HTML Code Block
+
+```html
+<h3>HTML</h3>
+<p>This is a paragraph tag</p>
+```
+
+    Markup  :   ```html
+                <h3>HTML</h3>
+                <p> This is a paragraph tag </p>
+
 JavaScript Code Block
 
 ```javascript
