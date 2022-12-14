@@ -1,4 +1,4 @@
-# Markdown Syntax
+# Markdown Syntax<a name="Top"></a>
 
 <!-- Headings -->
 
@@ -205,3 +205,12 @@ console.log("Hello Web!");
 - [x] Task 2
 - [ ] Task 3
 - [ ] Task 4
+
+<!-- Link to specific section within page -->
+
+Link to a specific part of the page:
+
+[Scroll To Top](#Top)
+
+    Markup  :   [link text](#section_name)
+                section_title<a name="section_name"></a>
