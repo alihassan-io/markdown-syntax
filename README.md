@@ -201,10 +201,23 @@ console.log("Hello Web!");
 
 <!-- Task List -->
 
-- [x] Task 1
-- [x] Task 2
-- [ ] Task 3
-- [ ] Task 4
+**CheckList**
+
+- [ ] Task (uncompleted)
+- [x] Task (completed)
+
+```
+    Markup  :   - [ ] Task (uncompleted)
+                - [x] Task (completed)
+```
+
+- [ ] Task (uncompleted)
+  - [ ] Subtask (uncompleted)
+
+```
+    Markup  :   - [ ] Task (uncompleted)
+                - [ ] Subtask (uncompleted)
+```
 
 <!-- Link to specific section within page -->
 
