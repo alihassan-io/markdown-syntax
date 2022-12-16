@@ -227,3 +227,30 @@ Link to a specific part of the page:
 
     Markup  :   [link text](#section_name)
                 section_title<a name="section_name"></a>
+
+Hotkey:
+
+<kbd>⌘F</kbd>
+
+<kbd>⇧⌘F</kbd>
+
+    Markup : <kbd>⌘F</kbd>
+
+Hotkey list:
+
+| Key       | Symbol |
+| --------- | ------ |
+| Option    | ⌥      |
+| Control   | ⌃      |
+| Command   | ⌘      |
+| Shift     | ⇧      |
+| Caps Lock | ⇪      |
+| Tab       | ⇥      |
+| Esc       | ⎋      |
+| Power     | ⌽      |
+| Return    | ↩      |
+| Delete    | ⌫      |
+| Up        | ↑      |
+| Down      | ↓      |
+| Left      | ←      |
+| Right     | →      |
