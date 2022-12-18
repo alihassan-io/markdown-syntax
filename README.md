@@ -104,7 +104,7 @@ _Horizontal line :_
                 - Unordered List
 ```
 
-<!-- OL -->
+<!-- Ordered List -->
 
 1. Ordered List 1
    1. Nested Ordered List 1a
