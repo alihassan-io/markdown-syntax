@@ -134,7 +134,7 @@ Title With Dropdown Paragraph:
 
 <!-- Inline Code Block -->
 
-`<p>This is HTML paragraph.</p>`
+`<p>HTML paragraph</p>`
 
     Markup : `<p>This is HTML paragraph.</p>`
 
