@@ -38,7 +38,7 @@
 
 Common text
 
-    Markup :  Common text
+    Markup :  A Common text
 
 <!-- Italic -->
 
