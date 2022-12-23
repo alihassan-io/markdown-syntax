@@ -1,6 +1,6 @@
 # Markdown Syntax<a name="Top"></a>
 
-<!-- Headings -->
+<!-- The Headings -->
 
 # Heading 1
 
