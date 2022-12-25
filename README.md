@@ -34,7 +34,7 @@
 
     Markup :  ###### Heading 6 ######
 
-## <!-- Common Text -->
+## <!-- A Common Text -->
 
 Common text
 
