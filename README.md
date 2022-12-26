@@ -52,7 +52,7 @@ _Italic_
 
     Markup : ~~Strikethrough~~
 
-<!-- Bold -->
+<!-- Bold Text -->
 
 **Bold**
 
