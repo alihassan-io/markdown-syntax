@@ -196,7 +196,7 @@ console.log("Hello Web!");
 
 | Name | Email        |
 | ---- | ------------ |
-| Tech | tech@web.com |
+| Ali | okletsbesocial@gmail.com |
 | Guy  | guy@web.com  |
 
 <!-- Task List -->
