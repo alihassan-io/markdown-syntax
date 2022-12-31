@@ -4,7 +4,7 @@
 
 # Heading # 1
 
-    Markup :  # Heading 1 #
+    Markup :  # Heading # 1 #
 
     -OR-
 
@@ -12,7 +12,7 @@
 
 ## Heading # 2
 
-    Markup :  ## Heading 2 ##
+    Markup :  ## Heading # 2 ##
 
     -OR-
 
@@ -20,19 +20,19 @@
 
 ### Heading # 3
 
-    Markup :  ### Heading 3 ###
+    Markup :  ### Heading # 3 ###
 
 #### Heading # 4
 
-    Markup :  #### Heading 4 ####
+    Markup :  #### Heading # 4 ####
 
 ##### Heading # 5
 
-    Markup :  ##### Heading 5 #####
+    Markup :  ##### Heading # 5 #####
 
 ###### Heading # 6
 
-    Markup :  ###### Heading 6 ######
+    Markup :  ###### Heading # 6 ######
 
 ## <!-- A Common Text -->
 
