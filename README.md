@@ -194,10 +194,13 @@ console.log("Hello Web!");
 
 <!-- Table -->
 
-| Name | Email        |
-| ---- | ------------ |
-| Ali | okletsbesocial@gmail.com |
-| Guy  | guy@web.com  |
+| Name       | Email               |
+| ---------- | ------------------- |
+| Ali Hassan | alihassan@gmail.com |
+
+    Markup:     | Name | Email        |
+                | ---- | ------------ |
+                | Ali Hassan | alihassan@gmail.com |
 
 <!-- Task List -->
 
