@@ -64,6 +64,22 @@ _Italic_
 
     Markup : ***Bold & Italic*** or ___Bold & Ilatic___
 
+<!-- Monospaced -->
+
+Monospaced
+
+<samp>This is a monospaced text inside a samp tag.</samp>
+
+    Markup: <samp>This is a monospaced text inside a samp tag.</samp>
+
+<!-- Underlined -->
+
+Underlined
+
+<ins>This is a underlined text inside a ins tag.</ins>
+
+    Markup: <ins>This is a underlined text inside a ins tag.</ins>
+
 <!-- Horizontal Rule -->
 
 _Horizontal line :_
