@@ -2,37 +2,37 @@
 
 <!-- The List of Headings (H1 to H6) -->
 
-# Heading # 1
+# Heading 1
 
-    Markup :  # Heading # 1 #
+    Markup :  # Heading 1 #
 
     -OR-
 
     Markup :  ============= (below H1 text)
 
-## Heading # 2
+## Heading 2
 
-    Markup :  ## Heading # 2 ##
+    Markup :  ## Heading 2 ##
 
     -OR-
 
     Markup: --------------- (below H2 text)
 
-### Heading # 3
+### Heading 3
 
-    Markup :  ### Heading # 3 ###
+    Markup :  ### Heading 3 ###
 
-#### Heading # 4
+#### Heading 4
 
-    Markup :  #### Heading # 4 ####
+    Markup :  #### Heading 4 ####
 
-##### Heading # 5
+##### Heading 5
 
-    Markup :  ##### Heading # 5 #####
+    Markup :  ##### Heading 5 #####
 
-###### Heading # 6
+###### Heading 6
 
-    Markup :  ###### Heading # 6 ######
+    Markup :  ###### Heading 6 ######
 
 ## <!-- A Common Text -->
 
@@ -97,6 +97,26 @@ _Horizontal line :_
 > > Nested blockquote
 
     Markup :  >> Nested Blockquote
+
+<!-- Box -->
+
+Boxed
+
+<table>
+    <tr>
+        <td>
+        The quick brown fox jumps over the lazy dog.
+        </td>
+    </tr>
+</table>
+
+<!-- Subscript & Superscript -->
+
+Subscript & Superscript
+
+3 <sup>73-1</sup> & -2 <sup>30-1</sup>
+
+    Markup:     3 <sup>73-1</sup> & -2 <sup>30-1</sup>
 
 <!-- Links -->
 
