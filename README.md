@@ -118,6 +118,14 @@ Subscript & Superscript
 
     Markup:     3 <sup>73-1</sup> & -2 <sup>30-1</sup>
 
+<!-- Footnote -->
+
+A sentence with footnote. [^1]
+
+[^1]: It's a footnote.
+
+    Markup:     [^1]: It's a footnote.
+
 <!-- Links -->
 
 [Simple Link](https://github.com/alihassan-io)
