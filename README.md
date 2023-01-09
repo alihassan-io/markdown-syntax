@@ -154,6 +154,14 @@ Alignments
               <img src="https://www.bettersrv.com/images/logo.png"/>
               </p>
 
+<!-- Buttons -->
+
+Button
+
+<kbd>cmd + shift + p</kbd>
+
+    Markup  :   <kbd>cmd + shift + p</kbd>
+
 <!-- Links -->
 
 [Simple Link](https://github.com/alihassan-io)
