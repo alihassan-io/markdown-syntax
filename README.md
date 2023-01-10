@@ -162,6 +162,12 @@ Button
 
     Markup  :   <kbd>cmd + shift + p</kbd>
 
+Button With Space
+
+<kbd> <br> cmd + shift + p <br> </kbd>
+
+    Markup  :   <kbd> <br> cmd + shift + p <br> </kbd>
+
 <!-- Links -->
 
 [Simple Link](https://github.com/alihassan-io)
