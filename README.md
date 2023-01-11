@@ -168,6 +168,12 @@ Button With Space
 
     Markup  :   <kbd> <br> cmd + shift + p <br> </kbd>
 
+Button with Link
+
+<kbd>[BetterSrv](https://bettersrv.com/)</kbd>
+
+    Markup  :   <kbd>[BetterSrv](https://bettersrv.com/)</kbd>
+
 <!-- Links -->
 
 [Simple Link](https://github.com/alihassan-io)
