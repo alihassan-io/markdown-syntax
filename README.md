@@ -174,6 +174,14 @@ Button with Link
 
     Markup  :   <kbd>[BetterSrv](https://bettersrv.com/)</kbd>
 
+<!-- Math expressions -->
+
+Math Expressions
+
+Inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+
+    Markup  :   Inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+
 <!-- Links -->
 
 [Simple Link](https://github.com/alihassan-io)
