@@ -180,7 +180,18 @@ Math Expressions
 
 Inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
-    Markup  :   Inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+    Markup  :   Inline math expression $x = {-b \pm \sqrt
+                {b^2-4ac} \over 2a}$
+
+Math Expression as a Block
+
+$$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$
+
+    Markup  :   $$
+                x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+                $$
 
 <!-- Links -->
 
