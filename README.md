@@ -86,7 +86,15 @@ _Horizontal line :_
 
 ---
 
-    Markup : ----
+---
+
+---
+
+    Markup :    -------- (hyphens)
+                OR
+                ******** (asterisks)
+                OR
+                ________ (underscores)
 
 <!-- Blockquote -->
 
