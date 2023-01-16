@@ -96,6 +96,12 @@ _Horizontal line :_
                 OR
                 ________ (underscores)
 
+<!-- It's a comment. -->
+
+Comments
+
+    Markup  :   <!-- It's a comment. -->
+
 <!-- Blockquote -->
 
 > Blockquote
