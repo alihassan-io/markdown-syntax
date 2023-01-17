@@ -140,6 +140,13 @@ A sentence with footnote. [^1]
 
     Markup: [^1]: It's a footnote.
 
+[^2]:
+    It's a
+    multiline footnote.
+
+    Markup : [^2]: It's a
+    multiline footnote.
+
 <!-- Alignments -->
 
 Alignments
