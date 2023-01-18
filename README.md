@@ -2,6 +2,9 @@
 
 <!-- The List of Headings (H1 to H6) -->
 
+Table of Contents 
+- Headings 
+
 # Heading 1
 
     Markup :  # Heading 1 #
