@@ -2,8 +2,13 @@
 
 <!-- The List of Headings (H1 to H6) -->
 
-Table of Contents 
-- Headings 
+Table of Contents
+
+- Headings
+- Text
+- Line
+- Comments
+- Blockquote
 
 # Heading 1
 
