@@ -9,6 +9,9 @@ Table of Contents
 - Line
 - Comments
 - Blockquote
+- Boxed
+- Subscript & Superscript
+- Footnote
 
 # Heading 1
 
