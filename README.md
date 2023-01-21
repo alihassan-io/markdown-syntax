@@ -12,6 +12,9 @@ Table of Contents
 - Boxed
 - Subscript & Superscript
 - Footnote
+- Alignments
+- Buttons
+- Math Expressions
 
 # Heading 1
 
