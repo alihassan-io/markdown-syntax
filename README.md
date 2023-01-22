@@ -15,6 +15,10 @@ Table of Contents
 - Alignments
 - Buttons
 - Math Expressions
+- Links
+- Lists
+- Foldable Text
+- Code Block
 
 # Heading 1
 
