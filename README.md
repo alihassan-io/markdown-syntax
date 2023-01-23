@@ -19,6 +19,9 @@ Table of Contents
 - Lists
 - Foldable Text
 - Code Block
+- Images
+- Table
+- Task List
 
 # Heading 1
 
