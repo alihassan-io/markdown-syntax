@@ -22,6 +22,8 @@ Table of Contents
 - Images
 - Table
 - Task List
+- Scroll To Top
+- Hotkey List
 
 # Heading 1
 
