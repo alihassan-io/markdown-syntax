@@ -16,9 +16,9 @@ Table of Contents
 - Buttons
 - Math Expressions
 - Links
-- Lists
+- Lists(ordered + unordered)
 - Foldable Text
-- Code Block
+- Code Block (Inline + Block)
 - Images
 - Table
 - Task List
