@@ -24,6 +24,7 @@ Table of Contents
 - Task List
 - Scroll To Top
 - Hotkey List
+- Emoji
 
 # Heading 1
 
@@ -412,3 +413,9 @@ Hotkey list:
 | Down      | ↓      |
 | Left      | ←      |
 | Right     | →      |
+
+Emoji
+
+:blush:
+:sunny:
+:dart:
