@@ -414,8 +414,8 @@ Hotkey list:
 | Left      | ←      |
 | Right     | →      |
 
-Emoji
+Emoji:
 
-:blush:
-:sunny:
-:dart:
+:exclamation: Emoji icons can enhance text. :+1:
+
+    Markup : Code appears between colons :EMOJICODE:
