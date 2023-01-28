@@ -104,6 +104,13 @@ Underlined
 
     Markup: <ins>This is a underlined text inside a ins tag.</ins>
 
+<!-- Highlight -->
+
+This is ==important word== that's why highlighted.
+
+    Markup  :   This is ==important word== that's why
+                highlighted.
+
 <!-- Horizontal Rule -->
 
 _Horizontal line :_
