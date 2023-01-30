@@ -385,6 +385,20 @@ console.log("Hello Web!");
                 - [ ] Subtask (uncompleted)
 ```
 
+<!-- Diagrams -->
+
+```mermaid
+pie
+"Movies" : 80
+"TV shows" : 20
+```
+
+    Markup  :   ```mermaid
+                pie
+                "Movies" : 80
+                "TV shows" : 20
+                ```
+
 <!-- Link to specific section within page -->
 
 Link to a specific part of the page:
