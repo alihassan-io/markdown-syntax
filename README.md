@@ -1,5 +1,7 @@
 # Markdown Syntax<a name="Top"></a>
 
+Markdown is a lightweight markup language with plain text formatting syntax that can be converted to HTML, PDF, and other formats. It is commonly used to create documentation, README files, and online content. Here are some basic syntax examples:
+
 <!-- The List of Headings (H1 to H6) -->
 
 Table of Contents
