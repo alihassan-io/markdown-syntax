@@ -442,3 +442,17 @@ Emoji:
 :exclamation: Emoji icons can enhance text. :+1:
 
     Markup : Code appears between colons :EMOJICODE:
+
+## Contributing
+
+If you'd like to contribute to this repository, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Make your changes and commit them to your branch
+4. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
